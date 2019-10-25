@@ -1,0 +1,9 @@
+.item-list {
+  border: 1px solid gray;
+  width: 200px;
+}
+
+.item-list h3 {
+  margin: 5px 0;
+  padding: 0;
+}

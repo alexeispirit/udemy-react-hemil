@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.link-active-style {
+  color: green;
+}
+
+.remove-button {
+  width: 150px;
+  padding: 10px 0;
+  margin: 5px 0;
+}
+
+.form-field {
+  display: flex;
+  margin-bottom: 5px;
+  justify-content: space-between;
+  width: 300px;
+}
+
+.ul-style {
+  display: flex;
+  list-style: none;
+}
+
+.li-style {
+  color: salmon;
+  display: inline-block;
+  width: 200px;
+  border: 1px solid gray;
+  text-decoration: none;
+}
