@@ -12,13 +12,15 @@ import "./App.css";
 // import UsePreviousCustomHook from "./components/UsePreviousCustomHook";
 // import UseLayoutEffectHook from "./components/UseLayoutEffectHook";
 // import UseCustonFetchHook from "./components/UseCustonFetchHook";
-import Routing from "./components/Routing";
+// import ReactRedux from "./components/ReactRedux";
+// import UseReducerHook from "./components/UseReducerHook";
+import ReactTesting from "./components/ReactTesting";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Routing />
+        <ReactTesting />
       </header>
     </div>
   );
