@@ -37,7 +37,9 @@
   "devDependencies": {
     "@testing-library/jest-dom": "^4.2.0",
     "@testing-library/react": "^9.3.0",
+    "node-sass": "^4.13.0",
     "react-addons-test-utils": "^15.6.2",
+    "react-styleguidist": "^9.2.0",
     "react-test-render": "^1.1.2"
   }
 }

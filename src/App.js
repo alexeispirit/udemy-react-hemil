@@ -14,13 +14,16 @@ import "./App.css";
 // import UseCustonFetchHook from "./components/UseCustonFetchHook";
 // import ReactRedux from "./components/ReactRedux";
 // import UseReducerHook from "./components/UseReducerHook";
-import ReactTesting from "./components/ReactTesting";
+// import ReactTesting from "./components/ReactTesting";
+// import TicTacToe from "./tic-tac-toe/TicTacToe";
+// import DraggableList from "./draggable-list/DraggableList";
+import CustomButtonLibrary from "./components/CustomButtonLibrary";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <ReactTesting />
+        <CustomButtonLibrary />
       </header>
     </div>
   );
